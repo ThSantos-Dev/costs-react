@@ -1,0 +1,99 @@
+.project_card {
+    width: 24%;
+
+    padding: 1rem;
+    margin: 0.5%;
+
+    border: 1px solid #7a7a7a;
+    border-radius: 5px;
+}
+
+.project_card h4 {
+    color: #ffbb33;
+    font-size: 1.3rem;
+
+    padding: .4rem;
+    margin-bottom: 1.3rem;
+
+    background-color: #222;
+}
+
+.project_card p {
+    color: #7a7a7a;
+
+    margin-bottom: 1rem;
+}
+
+.project_card p span{
+    font-weight: bold;
+}
+
+.category_text {
+    display: flex;
+    align-items: center;
+}
+
+.category_text span {
+    width: 12px;
+    height: 12px;
+
+    display: block;
+    margin-right:  5px;
+
+    border-radius: 50%;
+    background-color: #ccc;
+}
+
+/* Cores dos marcadores de cada categoria */
+.category_text span.infra{
+    background-color: #ffaebc;
+}
+.category_text span.desenvolvimento{
+    background-color: #a0e7e5;
+}
+.category_text span.design{
+    background-color: #b4f8c8;
+}
+.category_text span.planejamento{
+    background-color: #fbe7c6;
+}
+
+/* Ações | Editar e Excluir */
+.project_card_actions {
+    display: flex;
+    align-items: center;
+
+    margin-top: 1.2rem;
+}
+
+.project_card_actions a,
+.project_card_actions button {
+    color: #222;
+    font-size: .9rem;
+    text-decoration: none;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    padding: .6rem 1rem;
+    margin-right: 1rem;
+    
+    cursor: pointer;
+    transition: all 0.5s;
+
+    border: 1px solid #222;
+    background-color: #fff;
+}
+
+.project_card_actions a:hover,
+.project_card_actions button:hover {
+    color: #ffbb33;
+
+    background-color: #222;
+}
+
+.project_card_actions svg {
+    margin-right:  .5rem;
+}
+
