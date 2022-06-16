@@ -9,7 +9,11 @@
     <li>JavaScript/Reactjs</li>
 </ul>
 
+## Preview:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E-I3PMCMUNg/0.jpg)](https://www.youtube.com/watch?v=E-I3PMCMUNg)
+
+<p>Clique na imagem acima ou<a href="https://www.youtube.com/watch?v=E-I3PMCMUNg" target="_blank"> aqui </a></p> para ver as funcionalidades.
 
 
 ### Nota: backend em desenvolivmento.
