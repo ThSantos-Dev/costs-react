@@ -9,8 +9,7 @@
     <li>JavaScript/Reactjs</li>
 </ul>
 
-<div style="margin: auto;">
-    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E-I3PMCMUNg/0.jpg)](https://www.youtube.com/watch?v=E-I3PMCMUNg)
-</div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E-I3PMCMUNg/0.jpg)](https://www.youtube.com/watch?v=E-I3PMCMUNg)
+
 
 ### Nota: backend em desenvolivmento.
