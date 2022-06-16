@@ -6,7 +6,7 @@
 <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>Reactjs</li>
+    <li>JavaScript/Reactjs</li>
 </ul>
 
+### Nota: backend em desenvolivmento.
